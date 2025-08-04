@@ -77,8 +77,8 @@ Gracias a nuestros sponsors por hacer posible este proyecto:
 
 ## Contribuciones
 
-<a href="https://github.com/facundocabrera/ai-agents-desde-cero/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=facundocabrera/ai-agents-desde-cero" />
+<a href="https://github.com/GEERS-AI/ai-agents-desde-cero/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=GEERS-AI/ai-agents-desde-cero" />
 </a>
 
 ## Licencia
