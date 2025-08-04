@@ -75,3 +75,12 @@ Gracias a nuestros sponsors por hacer posible este proyecto:
 
 <img src="images/sponsors.png" alt aria-hidden />
 
+## Contribuciones
+
+<a href="https://github.com/facundocabrera/ai-agents-desde-cero/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=facundocabrera/ai-agents-desde-cero" />
+</a>
+
+## Licencia
+
+Este proyecto está bajo la Licencia MIT. Para más detalles, consulta el archivo [LICENSE](LICENSE).
