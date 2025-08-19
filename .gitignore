@@ -1,3 +1,6 @@
+# IDE
+.vscode/
+
 # env and venv
 .venv/
 .env
