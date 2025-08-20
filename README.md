@@ -1,68 +1,31 @@
-# [WIP] AI Agents desde Cero
+# AI Agents desde Cero - 2025
 
 Somos GEERS AI desde Tandil, Buenos Aires, Argentina (🇦🇷).
 
-## Contenido de la Capacitación
+## Programa de la Capacitación
 
-### Day 1
+### Día 1: Fundamentos y Herramientas
 
-**1. Copilot**
+- **Copilot:** Herramientas de asistencia de IA para la programación y su contexto en el desarrollo moderno.
+- **Embeddings:** Representaciones vectoriales y su importancia en los sistemas de IA actuales.
+- **Semantic Search:** Técnicas de búsqueda basadas en significado utilizando embeddings y similitud vectorial.
 
-* GitHub Copilot
-* Cursor
-* Revisiones de código automatizadas
-* Programación en pares con herramientas de IA
-* Revisión de posibles restricciones de confidencialidad que pueda tener la empresa
+### Día 2: Agentes y Modelos de Lenguaje
 
-**2. ¿Qué son los embeddings?**
+- **Fundamentos de LLMs:** Conceptos clave de los modelos de lenguaje de gran tamaño.
+- **RAG (Retrieval Augmented Generation):** Integración de recuperación de información en generación de texto.
+- **Copilots:** Aplicaciones prácticas de copilotos de IA.
+- **Agentes Autónomos:** Diseño y funcionamiento de agentes que operan de manera independiente.
+- **Sistemas Multiagente:** Colaboración y coordinación entre múltiples agentes.
 
-* Modelos de embeddings
-* Explicación de los conceptos de vectores que sustentan la IA
+### Día 3: Herramientas y Flujos de Trabajo
 
-**3. ¿Búsqueda semántica?**
+- **Tools:** Agregando nuevas capacidades a un agente.
+- **Workflows y Agents:** Diseño de flujos de datos utilizando LangGraph.
 
-* Cómo los vectores permiten el uso de nuevas formas de recuperación de información
-* Herramientas: TryChroma, Milvus
+### Día 4: Arquitecturas Avanzadas
 
-### Day 2
-
-**1. Prompting (Guía de Prompting)**
-
-* Aprender los distintos enfoques de prompting
-* Experimentar con Chain of Thought
-
-**2. GPT**
-
-* Acceder a la API por primera vez
-* Aprender sobre costos y gestión de claves
-* ¿Alternativas a GPT? Gemini, Claude, etc.
-
-**3. ¿Qué son los agentes?**
-
-* Zero-shot
-* ReAct
-
-### Day 3
-
-**1. ¿Qué son las herramientas?**
-
-* Construcción de distintas herramientas
-
-**2. Frameworks en Python**
-
-* OpenAI Agents
-* LangChain
-* LlamaIndex
-
-### Day 4
-
-**1. Implementación de Retrieval Augmented Generation (RAG)**
-
-* Experimentación con frameworks y desarrollo de un sistema RAG
-
-**2. Implementación de agentes ReAct**
-
-* Experimentación con ReAct y desarrollo de agentes que analicen antes de responder
+- **Arquitecturas de sistemas multiagente:** Estructuras y patrones para sistemas complejos con múltiples agentes.
 
 ## Nuestros Sponsors
 
