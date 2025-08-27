@@ -25,7 +25,17 @@ Somos GEERS AI desde Tandil, Buenos Aires, Argentina (🇦🇷).
 
 ### Día 4: Arquitecturas Avanzadas
 
-- **Arquitecturas de sistemas multiagente:** Estructuras y patrones para sistemas complejos con múltiples agentes.
+- **Agentes:**
+  1. Traveler
+  2. Company Researcher
+  3. Agentic RAG
+
+- **Sistemas Multi-Agente:**
+  1. Agency
+  2. Memoria
+  3. Human-In-The-Loop
+  4. Patrones constructivos
+  5. Evaluación de LLMs
 
 ## Nuestros Sponsors
 
@@ -38,11 +48,12 @@ Gracias a nuestros sponsors por hacer posible este proyecto:
 
 <img src="images/sponsors.png" alt aria-hidden />
 
-## Contribuciones
+## ¿Te interesa consultoría o entrenamiento personalizado?
 
-<a href="https://github.com/GEERS-AI/ai-agents-desde-cero/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=GEERS-AI/ai-agents-desde-cero" />
-</a>
+Este contenido fue creado por Jorge Andrés Díaz Pace y Facundo Cabrera, profesionales con amplia experiencia en inteligencia artificial, agentes y sistemas de software avanzados. Si tu organización busca consultoría, talleres o entrenamientos personalizados en IA, agentes, LLMs o flujos de trabajo avanzados, puedes contactarnos a través de LinkedIn:
+
+- [Jorge Andrés Díaz Pace](https://www.linkedin.com/in/jorge-andr%C3%A9s-diaz-pace-57a4b33/)
+- [Facundo Cabrera](https://www.linkedin.com/in/cabrerafacundo/)
 
 ## Licencia
 
