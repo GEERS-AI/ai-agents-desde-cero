@@ -107,7 +107,7 @@ CREATE TABLE [Customer]
 
 CREATE TABLE [Employee]
 (
-    [EmployeeId] INTEGER  NOT NULL,
+    [EmployeeId] INTEGER  NOT NULL, 
     [LastName] NVARCHAR(20)  NOT NULL,
     [FirstName] NVARCHAR(20)  NOT NULL,
     [Title] NVARCHAR(30),
